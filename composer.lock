@@ -3297,12 +3297,12 @@
             "version": "v0.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/gesdinet/JWTRefreshTokenBundle.git",
+                "url": "https://github.com/markitosgv/JWTRefreshTokenBundle.git",
                 "reference": "ad475378b278719bebe4062c50b6135c5bcdd4e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gesdinet/JWTRefreshTokenBundle/zipball/ad475378b278719bebe4062c50b6135c5bcdd4e7",
+                "url": "https://api.github.com/repos/markitosgv/JWTRefreshTokenBundle/zipball/ad475378b278719bebe4062c50b6135c5bcdd4e7",
                 "reference": "ad475378b278719bebe4062c50b6135c5bcdd4e7",
                 "shasum": ""
             },
@@ -11492,7 +11492,7 @@
         },
         {
             "name": "sylius/taxonomy",
-            "version": "v1.6.0",
+            "version": "v1.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Sylius/Taxonomy.git",
@@ -11555,7 +11555,7 @@
         },
         {
             "name": "sylius/taxonomy-bundle",
-            "version": "v1.6.0",
+            "version": "v1.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Sylius/SyliusTaxonomyBundle.git",
